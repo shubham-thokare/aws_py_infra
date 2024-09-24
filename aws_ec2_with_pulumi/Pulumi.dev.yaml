@@ -1,0 +1,5 @@
+config:
+  aws:region: ap-south-1
+  pulumi:template: aws-python
+environment:
+  - aws-infra/aws-infra
